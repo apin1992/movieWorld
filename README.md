@@ -2,7 +2,7 @@
 ## Search for movies with API IMBD
 
 
-
+![Alt text](public/readme.png)
 
 
 # Getting Started with Create React App
