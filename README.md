@@ -1,7 +1,7 @@
 # MovieLand
 ## Search for movies with API IMBD
 
-![Alt text](public/readme.png)
+
 
 
 
